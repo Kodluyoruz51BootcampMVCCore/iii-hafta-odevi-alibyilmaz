@@ -60,4 +60,6 @@ namespace ExtensionMethodsExample
 }   
 ``` 
 src: https://www.c-sharpcorner.com/UploadFile/3d39b4/extension-method-in-C-Sharp/#:~:text=Extension%20Methods%20are%20a%20new,or%20modify%20the%20original%20types.&text=An%20Extension%20Method%20is%20a%20static%20method%20to%20the%20existing%20static%20class.
-3.SQLite, bunu doğru şekilde (en güncel yol ile) nasıl kullanmalıyız? (Aktif halde kullanıp uygulama) #in repo
+
+3.SQLite, bunu doğru şekilde (en güncel yol ile) nasıl kullanmalıyız? (Aktif halde kullanıp uygulama) 
+# repoda
